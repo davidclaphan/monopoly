@@ -1,2 +1,2 @@
 # monopoly-python
-Portfolio project from CS162
+Portfolio project for CS162
