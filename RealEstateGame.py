@@ -214,7 +214,6 @@ class PlayerNameError(Exception):
     pass
 
 
-# Will cause an issue with grader in course, implement this after course is over.
 class CannotPurchaseGoSpace(Exception):
     pass
 
